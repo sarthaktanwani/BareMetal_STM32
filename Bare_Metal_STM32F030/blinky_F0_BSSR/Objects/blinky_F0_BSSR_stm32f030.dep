@@ -1,0 +1,20 @@
+Dependencies for Project 'blinky_F0_BSSR', Target 'stm32f030': (DO NOT MODIFY !)
+F (.\main.c)(0x5EA878B6)(--c99 --gnu -c --cpu Cortex-M0 -D__EVAL -g -O0 --apcs=interwork --split_sections-I.\RTE\_stm32f030-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include-IC:\Keil_v5\ARM\PACK\Keil\STM32F0xx_DFP\2.0.0\Drivers\CMSIS\Device\ST\STM32F0xx\Include-D__UVISION_VERSION="526" -D_RTE_ -DSTM32F030x6-o .\objects\main.o --omf_browse .\objects\main.crf --depend .\objects\main.d)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F0xx_DFP\2.0.0\Drivers\CMSIS\Device\ST\STM32F0xx\Include\stm32f0xx.h)(0x597890D6)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F0xx_DFP\2.0.0\Drivers\CMSIS\Device\ST\STM32F0xx\Include\stm32f030x6.h)(0x597890D6)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include\core_cm0.h)(0x5B6193AC)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599EFE66)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include\cmsis_version.h)(0x5B1F61BC)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5B5866EE)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5B6193AC)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F0xx_DFP\2.0.0\Drivers\CMSIS\Device\ST\STM32F0xx\Include\system_stm32f0xx.h)(0x597890D6)
+F (RTE\Device\STM32F030F4Px\startup_stm32f030x6.s)(0x597890D6)(--cpu Cortex-M0 --pd "__EVAL SETA 1" -g --apcs=interwork -I.\RTE\_stm32f030-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include-IC:\Keil_v5\ARM\PACK\Keil\STM32F0xx_DFP\2.0.0\Drivers\CMSIS\Device\ST\STM32F0xx\Include--pd "__UVISION_VERSION SETA 526" --pd "_RTE_ SETA 1" --pd "STM32F030x6 SETA 1"--list .\listings\startup_stm32f030x6.lst --xref -o .\objects\startup_stm32f030x6.o --depend .\objects\startup_stm32f030x6.d)
+F (RTE\Device\STM32F030F4Px\system_stm32f0xx.c)(0x597890D6)(--c99 --gnu -c --cpu Cortex-M0 -D__EVAL -g -O0 --apcs=interwork --split_sections-I.\RTE\_stm32f030-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include-IC:\Keil_v5\ARM\PACK\Keil\STM32F0xx_DFP\2.0.0\Drivers\CMSIS\Device\ST\STM32F0xx\Include-D__UVISION_VERSION="526" -D_RTE_ -DSTM32F030x6-o .\objects\system_stm32f0xx.o --omf_browse .\objects\system_stm32f0xx.crf --depend .\objects\system_stm32f0xx.d)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F0xx_DFP\2.0.0\Drivers\CMSIS\Device\ST\STM32F0xx\Include\stm32f0xx.h)(0x597890D6)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F0xx_DFP\2.0.0\Drivers\CMSIS\Device\ST\STM32F0xx\Include\stm32f030x6.h)(0x597890D6)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include\core_cm0.h)(0x5B6193AC)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599EFE66)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include\cmsis_version.h)(0x5B1F61BC)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5B5866EE)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5B6193AC)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F0xx_DFP\2.0.0\Drivers\CMSIS\Device\ST\STM32F0xx\Include\system_stm32f0xx.h)(0x597890D6)
